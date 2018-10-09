@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Header from "/home/karol/Documents/code/MyFirstApp/pages/Header";
-import Body from "/home/karol/Documents/code/MyFirstApp/pages/Body";
+import Header from "./Header";
+import Body from "./Body";
 
 class App extends React.Component {
   constructor(props) {

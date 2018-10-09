@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Image from "/home/karol/Documents/code/MyFirstApp/pages/Image";
-import Element from "/home/karol/Documents/code/MyFirstApp/pages/Element.js";
-import Output from "/home/karol/Documents/code/MyFirstApp/pages/Output.js";
-import Input from "/home/karol/Documents/code/MyFirstApp/pages/Input.js";
+import Image from "./Image";
+import Element from "./Element.js";
+import Output from "./Output.js";
+import Input from "./Input.js";
 
 const divide = value => {
   value = Number(value);

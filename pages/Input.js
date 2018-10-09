@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { validator } from "/home/karol/Documents/code/MyFirstApp/pages/Body.js";
+import { validator } from "./Body.js";
 
 class Input extends React.Component {
   constructor(props) {

@@ -1,8 +1,8 @@
 //@flow
 import React from "react";
 import ReactDOM from "react-dom";
-import Image from "/home/karol/Documents/code/MyFirstApp/pages/Image.js";
-import { display as asString } from "/home/karol/Documents/code/MyFirstApp/pages/Element.js";
+import Image from "./Image.js";
+import { display as asString } from "./Element.js";
 
 class Output extends React.Component {
   constructor(props) {

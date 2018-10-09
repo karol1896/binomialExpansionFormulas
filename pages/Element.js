@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Image from "/home/karol/Documents/code/MyFirstApp/pages/Image.js";
-import Error from "/home/karol/Documents/code/MyFirstApp/pages/Error.js";
+import Image from "./Image.js";
+import Error from "./Error.js";
 
 const divide = value => {
   let y = [];
