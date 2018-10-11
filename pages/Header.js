@@ -7,7 +7,7 @@ class Header extends React.Component {
       <div className={this.props.style.header}>
         {this.props.activeHeader && (
           <h1 className={this.props.style.h1}>
-            Click and find out how to start calculate fast in simple way!
+            Click and find out how to start calculate fast in a simple way!
           </h1>
         )}
         <div onClick={this.props.onClick} className={this.props.style.button}>
