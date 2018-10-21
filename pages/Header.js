@@ -28,6 +28,7 @@ class Header extends React.Component {
             }
             .h1 {
               padding: 5%;
+              width: 100%;
             }
             .button {
               padding 5%;
