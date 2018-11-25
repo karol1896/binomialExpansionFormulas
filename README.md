@@ -1,6 +1,8 @@
 # binomialExpansionFormulas
 Simple application showing how properly use binomial expansion formulas for faster calculating. 
 
+Demo: https://out-i3oomz7ib.now.sh/
+
 How to install?
 1. Copy repo to directory on your computer.
 2. Download all uneccessary yarn packages by typing yarn in termianal in choosen directory.
